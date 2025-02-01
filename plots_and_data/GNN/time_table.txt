@@ -1,0 +1,9 @@
+Averge time for one epoch (13_10_100): 15.474 seconds
+Averge time for one epoch (13_20_200): 27.953 seconds
+Averge time for one epoch (13_30_300): 41.37 seconds
+Averge time for one epoch (25_10_100): 15.734 seconds
+Averge time for one epoch (25_20_200): 28.486 seconds
+Averge time for one epoch (25_30_300): 42.007 seconds
+Averge time for one epoch (49_10_100): 15.832 seconds
+Averge time for one epoch (49_20_200): 28.944 seconds
+Averge time for one epoch (49_30_300): 42.921 seconds
